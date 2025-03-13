@@ -113,10 +113,10 @@ if "__main__" == __name__:
             )
 
             db_connection = mysql.connector.connect(
-                host="db4free.net",
-                user="teamtoolhub",
-                password="t00lhub123",
-                database="toolhub",
+                host="xxxxx",
+                user="xxxxx",
+                password="xxxxx",
+                database="xxxxxx",
             )
 
             # Create a cursor object to execute SQL queries
@@ -218,10 +218,10 @@ if "__main__" == __name__:
                 return
 
             db_connection = mysql.connector.connect(
-                host="db4free.net",
-                user="teamtoolhub",
-                password="t00lhub123",
-                database="toolhub",
+                host="xxxxx",
+                user="xxxxb",
+                password="xxxxx",
+                database="xxxxx",
             )
 
             # tracking tool usage
